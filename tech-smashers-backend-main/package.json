@@ -1,0 +1,17 @@
+{
+  "name": "ide-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "compilex": "^0.7.4",
+    "express": "^4.18.1",
+    "particles.js": "^2.0.0"
+  }
+}
